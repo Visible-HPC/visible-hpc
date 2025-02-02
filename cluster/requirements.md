@@ -8,13 +8,15 @@ The planned training cluster will have two core uses:
 
 ### Specification
 
+The portable training cluster specification needs to balance the aims of providing something that can be used to demonstrate key properties and hardware design of a full-size HPC cluster while also being portable and having low power requirements to ensure sustainability and to demonstrate green computing principles.
+
 The **performance of individual nodes** is not critical since we envisage the resource being used primarily for relatively small-scale example computations. However, some level of computational capability will be useful in support of other possible future use cases.
 
 Likewise, **network performance** between nodes is not critical although reasonable performance to support diskless compute nodes is likely to be important. We'd expect to have Gigabit networking between nodes but nothing beyond this is considered to be necessary or practical.
 
-Key anticipated requirements include:
+Key anticipated hardware requirements include:
 
- - ARM-based CPUs on compute nodes
+ - x86_64 or ARM-based CPUs on compute nodes
  - 4 or more cores per node.
  - 24-64 compute nodes - anticipating 32 compute nodes to be realistic
  - 4GB minimum, 8GB+ RAM per compute node preferred
@@ -22,7 +24,21 @@ Key anticipated requirements include:
  - PCIe capability for connecting devices such as NVMe storage
  - ...
 
+Other preferred poroperties include:
+
+ - **19-inch rack-based hardware mounting:** This will enable demonstration of the way that regular HPC hardware is mounted in data centres.
+ - **Enterprise networking hardware:** To demonstrate the type of switches that are used to support full-size clusters and, potentially, the type of management interfaces they use.
+ - **PoE support:** Power-over-Ethernet to provide power to the compute nodes to simplify cabling and power distribution infrastructure.
+
 ### Hardware options
+
+#### Compute nodes
+
+There are a number of widely available, small, low-power single-board computers which could provide the basis for this cluster. Candidates include:
+
+ - [**Raspberry Pi**](https://www.raspberrypi.com/) - the latest Raspberry Pi, version 5, is powerful with a very strong supporting ecosystem of hardware.
+ - [**OrangePi**](http://www.orangepi.org/)
+ - [**Jetson Nano**](https://developer.nvidia.com/embedded/jetson-nano)
 
 ### Existing work
 
