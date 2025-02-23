@@ -30,15 +30,6 @@ Other preferred poroperties include:
  - **Enterprise networking hardware:** To demonstrate the type of switches that are used to support full-size clusters and, potentially, the type of management interfaces they use.
  - **PoE support:** Power-over-Ethernet to provide power to the compute nodes to simplify cabling and power distribution infrastructure.
 
-### Hardware options
-
-#### Compute nodes
-
-There are a number of widely available, small, low-power single-board computers which could provide the basis for this cluster. Candidates include:
-
- - [**Raspberry Pi**](https://www.raspberrypi.com/) - the latest Raspberry Pi, version 5, is powerful with a very strong supporting ecosystem of hardware.
- - [**OrangePi**](http://www.orangepi.org/)
- - [**Jetson Nano**](https://developer.nvidia.com/embedded/jetson-nano)
 
 ### Existing work
 
