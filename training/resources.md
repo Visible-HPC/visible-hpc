@@ -1,0 +1,15 @@
+# HPC training resources
+
+- [HPC Carpentry lessons](https://www.hpc-carpentry.org/community-lessons/)
+    - [An introduction to High Performance Computing](https://carpentries-incubator.github.io/hpc-intro/) (alpha)
+    - [Green Software Use on HPC](https://carpentries-incubator.github.io/green-software-hpc/) (alpha)
+    - [Materials to teach terminal fundamentals for HPC users](https://hpc-carpentry.github.io/hpc-shell/) (alpha)
+    - [A half-day lesson on tuning usage of LAMMPS for large-scale HPC systems](http://www.hpc-carpentry.org/tuning_lammps/) (alpha)
+    - [Introductory material on parallelization using python with a focus on HPC platforms](https://hpc-carpentry.github.io/hpc-parallel-novice) (alpha)
+    - [HPC Workflow Management with Snakemake](https://carpentries-incubator.github.io/hpc-workflows/)
+    - [HPC Workflow Management with Maestro](https://carpentries-incubator.github.io/HPC-workflow-lesson-maestro/)
+    - [HPC Python lesson materials](https://hpc-carpentry.github.io/hpc-python/) (pre-alpha)
+    - [HPC Chapel lesson materials](https://hpc-carpentry.github.io/hpc-chapel/) (pre-alpha)
+- [UNIVERSE-HPC HPC modules](https://train.rse.ox.ac.uk/material/HPCu/high_performance_computing)
+- [Introduction to High Performance Computing with Raspberry Pi](https://scw-aberystwyth.github.io/Introduction-to-HPC-with-RaspberryPi/)
+- [Working on HPC Clusters using SLURM](https://cambiotraining.github.io/hpc-intro/)
