@@ -9,6 +9,8 @@ The domains from which these examples often come from are:
 - climate modelling: coastal defences ([waves from Wee Archie](https://github.com/EPCCed/wee_archie/tree/master/waves))
 - manufacturing: aeroplane wing simulation ([windtunnel from Wee Archie](https://github.com/EPCCed/wee_archie/tree/master/windtunnel))
 - genomics: [AlphaFold](https://github.com/google-deepmind/alphafold)
+- [image sharpening](https://train.rse.ox.ac.uk/material/HPCu/high_performance_computing/supercomputing/04_practical)
+- [parallelising mandelbrot set generation](https://train.rse.ox.ac.uk/material/HPCu/high_performance_computing/parallel_computing/04_practical)
 
 We could reuse some of those demos or work on different demos from similar fields:
 
