@@ -58,8 +58,9 @@ Any code developed by the team that is hosted in this repository is available un
 
 Work being undertaken within this repository includes materials being produced as part of, and with support from, the following projects:
 
- - UNIVERSE-HPC: Understanding and Nurturing an Integrated Vision for Education in RSE and HPC (_Funder reference: EP/W035731/1_)
- - STEP-UP: a Strategic TEchnical Platform for University technical Professionals (_Funder reference: EP/Y530608/1_)
- - DRIFT: DRI-focussed training for research facilitators and teams
+ - [UNIVERSE-HPC](https://www.universe-hpc.ac.uk/): Understanding and Nurturing an Integrated Vision for Education in RSE and HPC (_Funder reference: EP/W035731/1_) (Project completed March 2025)
+ - [STEP-UP](https://step-up.ac.uk/): a Strategic TEchnical Platform for University technical Professionals (_Funder reference: EP/Y530608/1_)
+ - [DRIFT](https://drtp-skills.ac.uk/about/drift/): DRI-focussed training for research facilitators and teams (_Funder reference: UKRI298_)
+ - [SCALE-UP](https://scale-up.ac.uk/): The SCALE-UP Network: Scaling support for digital Research Technical Professionals (dRTPs) nationally (_UKRI DRI NetworkPlus grant_)
 
 We thank UK Research and Innovation (UKRI) for their support in funding these projects.
