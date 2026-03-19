@@ -16,7 +16,7 @@ At the heart of the cluster will be a series of [Raspberry Pi 5](https://www.ras
 
 [PDU]
 
-**Rack-mount solution:**
+**Rack-mount solution:** [Uctronics Rack Pro for Pi 5 - 19" 1U Rack Mount with 4x M.2 Bases and LCDs](https://thepihut.com/products/uctronics-rack-pro-for-pi-5-19-1u-rack-mount-with-4x-m-2-bases-and-lcds?)
 
 **Network switch**:
 
